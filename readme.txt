@@ -2,7 +2,7 @@ To get started, create a new Azure Function with the options "publish" = "code" 
 
 Go to Functions and add a new HTTP Trigger function.
 
-Go to "Code + Test". Click on "Get function URL" and save this in your 3scale webhook settings.
+Go to "Code + Test". Click on "Get function URL" and save this in your 3scale webhook settings. Make sure that webhooks are enabled, along with the appropriate event(s).
 
 Add in the code from the script that you wish to use. Press "save".
 
